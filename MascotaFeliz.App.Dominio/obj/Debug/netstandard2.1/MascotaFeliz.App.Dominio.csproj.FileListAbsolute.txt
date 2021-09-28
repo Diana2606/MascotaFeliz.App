@@ -1,0 +1,4 @@
+C:\Veterinaria\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.csprojAssemblyReference.cache
+C:\Veterinaria\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.AssemblyInfoInputs.cache
+C:\Veterinaria\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.AssemblyInfo.cs
+C:\Veterinaria\MascotaFeliz.App\MascotaFeliz.App.Dominio\obj\Debug\netstandard2.1\MascotaFeliz.App.Dominio.csproj.CoreCompileInputs.cache
